@@ -103,6 +103,79 @@ const resList = [
     },
     {
       "info": {
+          "id": "724075",
+          "name": "Rajajinagar Biryani Hub",
+          "cloudinaryImageId": "ec22ec453eaa9f54fb97af5d25898f77",
+          "locality": "Rajajinagar",
+          "areaName": "Rajajinagar",
+          "costForTwo": "₹300 for two",
+          "cuisines": [
+              "Biryani",
+              "Chinese"
+          ],
+          "avgRating": 3.4,
+          "parentId": "430872",
+          "avgRatingString": "3.4",
+          "totalRatingsString": "91",
+          "sla": {
+              "deliveryTime": 33,
+              "lastMileTravel": 7.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "30-35 mins",
+              "lastMileTravelString": "7.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+              "nextCloseTime": "2024-12-29 23:59:00",
+              "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "aggregatedDiscountInfoV2": {},
+          "type": "F",
+          "badgesV2": {
+              "entityBadges": {
+                  "imageBased": {},
+                  "textBased": {},
+                  "textExtendedBadges": {}
+              }
+          },
+          "orderabilityCommunication": {
+              "title": {},
+              "subTitle": {},
+              "message": {},
+              "customIcon": {}
+          },
+          "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+              }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+              "aggregatedRating": {
+                  "rating": "--"
+              }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+          "context": "seo-data-cca4d996-6b80-4185-a097-20190fc1f333"
+      },
+      "cta": {
+          "link": "https://www.swiggy.com/city/bangalore/rajajinagar-biryani-hub-rajajinagar-rest724075",
+          "text": "RESTAURANT_MENU",
+          "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
         "id": "506322",
         "name": "Louis Burger",
         "cloudinaryImageId": "19d3d352cc815b9d88b22617b41fa97b",
@@ -212,6 +285,80 @@ const resList = [
         "link": "https://www.swiggy.com/city/bangalore/louis-burger-2nd-stage-domlur-indiranagar-rest506322",
         "text": "RESTAURANT_MENU",
         "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+          "id": "610179",
+          "name": "Vaishali's Kitchen",
+          "cloudinaryImageId": "tagqypkuithkjkpiwxvv",
+          "locality": "31 st main road, Opposite Siddheshwar theatre 6 th phase",
+          "areaName": "Shri Hari complex,JP Nagar",
+          "costForTwo": "₹400 for two",
+          "cuisines": [
+              "Biryani",
+              "Chinese",
+              "Indian"
+          ],
+          "avgRating": 3.3,
+          "parentId": "220983",
+          "avgRatingString": "3.3",
+          "totalRatingsString": "584",
+          "sla": {
+              "deliveryTime": 47,
+              "lastMileTravel": 9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "45-50 mins",
+              "lastMileTravelString": "9.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+              "nextCloseTime": "2024-12-29 10:00:00",
+              "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "aggregatedDiscountInfoV2": {},
+          "type": "F",
+          "badgesV2": {
+              "entityBadges": {
+                  "imageBased": {},
+                  "textBased": {},
+                  "textExtendedBadges": {}
+              }
+          },
+          "orderabilityCommunication": {
+              "title": {},
+              "subTitle": {},
+              "message": {},
+              "customIcon": {}
+          },
+          "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+              }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+              "aggregatedRating": {
+                  "rating": "--"
+              }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+          "context": "seo-data-cca4d996-6b80-4185-a097-20190fc1f333"
+      },
+      "cta": {
+          "link": "https://www.swiggy.com/city/bangalore/vaishalis-kitchen-31-st-main-road-opposite-siddheshwar-theatre-6-th-phase-shri-hari-complex-jp-nagar-rest610179",
+          "text": "RESTAURANT_MENU",
+          "type": "WEBLINK"
       },
       "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
@@ -427,6 +574,80 @@ const resList = [
     },
     {
       "info": {
+          "id": "709386",
+          "name": "Sana Kitchen",
+          "cloudinaryImageId": "f594f4f63d3e00e93203f02d40e38d24",
+          "locality": "Prakash Nagar",
+          "areaName": "Rajajinagar",
+          "costForTwo": "₹300 for two",
+          "cuisines": [
+              "Biryani",
+              "Chinese",
+              "Kebabs"
+          ],
+          "avgRating": 3.6,
+          "parentId": "176828",
+          "avgRatingString": "3.6",
+          "totalRatingsString": "195",
+          "sla": {
+              "deliveryTime": 36,
+              "lastMileTravel": 7.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "35-40 mins",
+              "lastMileTravelString": "7.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+              "nextCloseTime": "2024-12-29 23:59:00",
+              "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "aggregatedDiscountInfoV2": {},
+          "type": "F",
+          "badgesV2": {
+              "entityBadges": {
+                  "imageBased": {},
+                  "textBased": {},
+                  "textExtendedBadges": {}
+              }
+          },
+          "orderabilityCommunication": {
+              "title": {},
+              "subTitle": {},
+              "message": {},
+              "customIcon": {}
+          },
+          "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+              }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+              "aggregatedRating": {
+                  "rating": "--"
+              }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+          "context": "seo-data-cca4d996-6b80-4185-a097-20190fc1f333"
+      },
+      "cta": {
+          "link": "https://www.swiggy.com/city/bangalore/sana-kitchen-prakash-nagar-rajajinagar-rest709386",
+          "text": "RESTAURANT_MENU",
+          "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
         "id": "468221",
         "name": "AL-Arabic Shawarma",
         "cloudinaryImageId": "vfvqc04xichrloipqz3t",
@@ -626,6 +847,83 @@ const resList = [
         "link": "https://www.swiggy.com/city/bangalore/al-daaz-2nd-stage-btm-rest822839",
         "text": "RESTAURANT_MENU",
         "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+          "id": "790376",
+          "name": "Italian Bob's Pizza",
+          "cloudinaryImageId": "b9f01f8df0efad01c7a0dea341885cb2",
+          "locality": "Sarvagna Nagar",
+          "areaName": "Kammanahalli/Kalyan Nagar",
+          "costForTwo": "₹800 for two",
+          "cuisines": [
+              "Pizzas",
+              "Beverages",
+              "Salads"
+          ],
+          "avgRating": 3.7,
+          "parentId": "469538",
+          "avgRatingString": "3.7",
+          "totalRatingsString": "57",
+          "sla": {
+              "deliveryTime": 50,
+              "lastMileTravel": 8.9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "50-55 mins",
+              "lastMileTravelString": "8.9 km",
+              "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+              "nextCloseTime": "2024-12-29 07:00:00",
+              "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+              "entityBadges": {
+                  "imageBased": {},
+                  "textBased": {},
+                  "textExtendedBadges": {}
+              }
+          },
+          "aggregatedDiscountInfoV3": {
+              "header": "40% OFF",
+              "subHeader": "UPTO ₹80"
+          },
+          "orderabilityCommunication": {
+              "title": {},
+              "subTitle": {},
+              "message": {},
+              "customIcon": {}
+          },
+          "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+              }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+              "aggregatedRating": {
+                  "rating": "--"
+              }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+          "context": "seo-data-cca4d996-6b80-4185-a097-20190fc1f333"
+      },
+      "cta": {
+          "link": "https://www.swiggy.com/city/bangalore/italian-bobs-pizza-sarvagna-nagar-kammanahalli-kalyan-nagar-rest790376",
+          "text": "RESTAURANT_MENU",
+          "type": "WEBLINK"
       },
       "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
@@ -837,7 +1135,87 @@ const resList = [
         "type": "WEBLINK"
       },
       "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-    }
+    },
+    {
+      "info": {
+          "id": "196047",
+          "name": "New Taj Darbar",
+          "cloudinaryImageId": "nfieyqgxk1omknxfbluj",
+          "locality": "Saint Mary's Church Road",
+          "areaName": "Shivajinagar",
+          "costForTwo": "₹300 for two",
+          "cuisines": [
+              "Biryani",
+              "Indian",
+              "Chinese",
+              "Tandoor",
+              "Seafood"
+          ],
+          "avgRating": 3.6,
+          "parentId": "148190",
+          "avgRatingString": "3.6",
+          "totalRatingsString": "15K+",
+          "sla": {
+              "deliveryTime": 38,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "35-40 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+              "nextCloseTime": "2025-01-05 00:00:00",
+              "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+              "entityBadges": {
+                  "imageBased": {},
+                  "textBased": {},
+                  "textExtendedBadges": {}
+              }
+          },
+          "aggregatedDiscountInfoV3": {
+              "header": "₹100 OFF",
+              "subHeader": "ABOVE ₹249",
+              "discountTag": "FLAT DEAL"
+          },
+          "orderabilityCommunication": {
+              "title": {},
+              "subTitle": {},
+              "message": {},
+              "customIcon": {}
+          },
+          "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+              }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+              "aggregatedRating": {
+                  "rating": "--"
+              }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+          "context": "seo-data-cca4d996-6b80-4185-a097-20190fc1f333"
+      },
+      "cta": {
+          "link": "https://www.swiggy.com/city/bangalore/new-taj-darbar-saint-marys-church-road-shivajinagar-rest196047",
+          "text": "RESTAURANT_MENU",
+          "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
 ];
 
 export default resList;
